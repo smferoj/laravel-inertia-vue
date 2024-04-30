@@ -5,6 +5,7 @@
 
 <template>
  <AppNavBar/>
+ <p>Homepage</p>
 </template>
 
 <style scoped>

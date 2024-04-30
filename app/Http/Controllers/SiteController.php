@@ -13,4 +13,10 @@ class SiteController extends Controller
     function Page1(){
         return Inertia::render('Page1');
     }
+    function Page2(){
+        return Inertia::render('Page2');
+    }
+    function Page3(){
+        return Inertia::render('Page3');
+    }
 }
